@@ -1,0 +1,24 @@
+_repo: AngelotA-Story-of-the-First-Empire_30072
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30072-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Price, Eleanor C. (Eleanor Catherine)
+    gutenberg_agent_id: '34352'
+    url: http://www.gutenberg.org/2009/agents/34352
+description: ''
+gutenberg_issued: '2009-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Fiction'
+- !lcc 'PR'
+title: 'Angelot: A Story of the First Empire'
+url: http://www.gutenberg.org/ebooks/30072
